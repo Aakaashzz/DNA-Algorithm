@@ -14,7 +14,9 @@ Mutation.
 
 <h3>Abstract </h3>
 
-In this technique,we take binaries of any type of digital data and convert it to DNA sequencing, reshape, encrypt, crossover, mutate and then reshape. The main stages of D-GET are repeated three times or more. Transmit the encrypted data in text/image format file. In other side, the receiver uses the D-GET to decrypt the received data and reshape it to original format. This Technique  multiple key sequences to increase the degree of diffusion and confusion, which makes resulting cipher data difficult to decipher and makes to realize a perfect secrecy system. Experimental results demonstrate that proposed technique has multilayer protection stages against different attacks and higher level of security based on the multi-stages and genetic operations. And a symentric key cryptography is implemented in this project.And also a random key will be generated.Decrypted data are acceptable because of there is absolutely difference between it and secret data. 
+In this method, binaries of any kind of digital data are converted to DNA sequencing, reshaped, encrypted, crossed over, mutated, and then reshaped. D-GET's primary stages are repeated three times or more. Send the text/image file containing the encrypted data. On the other hand, the receiver uses the D-GET to decrypt the data received and reformat it into its original format. This technique uses multiple key sequences to increase the degree of diffusion and confusion, which makes the resulting cypher data difficult to decipher and helps to realise a perfect secrecy system. 
+
+Results from the experiments show that the suggested technique has multiple layers of defence against various attacks and a higher level of security based on multiple stages and genetic operations. In this project, symmetric key cryptography is also used.Additionally, a random key will be produced.Data that has been decrypted is acceptable because there is no doubt that it differs from data that has been kept secret. 
 
 <h3> Architecture Diagram: </h3>
  
@@ -23,12 +25,15 @@ In this technique,we take binaries of any type of digital data and convert it to
 
 <h3> Evaluation Results </h3>
 
-The D-GET is implemented in the AMD Athlon(tm) II X2 220 Processor, 2.80GHz and 4 GB RAM on Windows 8.1 64-BIT operating system. We conduct experiments to test the efficacy of the proposed technique and run it with various types of secret data. 
-Using all manner of cryptanalytic, mathematical and brute-force attacks,  cryptanalysts attack any encrypted data to discover its contents. A successful encryption technique against them should be robust. So, there are some features that need to be achieved. Here There is no relationship between, before encryption, sensitive data values and, after encryption, encrypted data values. Encryption should be blended around the various hidden data components so that nothing in its original position is presented. 
+The D-GET is implemented in the Windows 8.1 64-BIT operating system with an AMD Athlon(tm) II X2 220 processor running at 2.80GHz and 4 GB of RAM. We run tests on a variety of secret data types to gauge the effectiveness of the suggested technique.
+
+Cryptologists attempt to decrypt any encrypted data in order to learn what is contained therein using a variety of cryptanalytic, mathematical, and brute-force attacks. A strong encryption method is necessary to defeat them. Therefore, a few characteristics must be attained. Here There is no connection between the values of sensitive data before encryption and the values of encrypted data after encryption. The various hidden data components should be wrapped in encryption so that nothing is visible in its original position. 
 
 ![dna2](https://user-images.githubusercontent.com/53599318/99867007-f6993500-2bdb-11eb-96f6-4fbc7a878cf5.jpg)
 
 <h3> Conclusions </h3>
 
-D-GET is implemented in this project. The D-GET, based on multi-iteration and genetic activities, is a more stable encryption technique. Operations, encryption, rotation, crossover, mutation, and reshapes that improve the standard of encryption are also included. D-GET operations and modifications to the original data size and format. In addition, the negligible relationship in both the hidden data and its encrypted data decreases the possibilities of cryptanalysis and breaking the cypher. In addition, the technique has multilayer defence phases that achieve confidentiality and provide data with more security, productivity and robustness and protects against detection. We would standardise D-GET in future work and try to minimise transmission.
+In this project, D-GET is used. The D-GET is a more reliable encryption method that is based on multiple iterations and genetic activities. Additionally included are operations, encryption, rotation, crossover, mutation, and reshapes that raise the bar for encryption. D-GET operations and alterations to the size and format of the starting data. Additionally, the likelihood of performing cryptanalysis and decrypting the cypher is reduced by the negligible relationship between the hidden data and its encrypted data. 
+
+The method also has multiple layers of defence that ensure confidentiality, give data more security, productivity, and robustness, and shield it from detection. In the future, we would standardise D-GET and work to reduce transmission.
 
